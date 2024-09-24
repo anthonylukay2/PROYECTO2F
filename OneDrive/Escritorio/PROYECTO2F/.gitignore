@@ -1,0 +1,15 @@
+# Ignorar archivos y carpetas del sistema y usuario
+.Nimi Places/
+.VirtualBox/
+.android/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.*
+OneDrive/
+Saved Games/
+Searches/
+Videos/
